@@ -5,9 +5,8 @@ Zadanie testowe VUEJS
 npm install
 Compiles and hot-reloads for development
 npm run serve
-Compiles and
 
-References
+# References
 VueJS : https://vuejs.org/
 
 vue cli : https://cli.vuejs.org/guide/
