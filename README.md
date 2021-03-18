@@ -1,5 +1,12 @@
 # Zadanie-VUEJS
 Zadanie testowe VUEJS
+
+# Project setup
+npm install
+Compiles and hot-reloads for development
+npm run serve
+Compiles and
+
 References
 VueJS : https://vuejs.org/
 
